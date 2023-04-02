@@ -1,0 +1,3 @@
+﻿  2048 Game.cpp
+D:\CODURI\Visual Studio Codes\2048 Game\2048 Game\2048 Game.cpp(23): warning C4715: 'createUnoccupiedPosition': not all control paths return a value
+  2048 Game.vcxproj -> D:\CODURI\Visual Studio Codes\2048 Game\x64\Debug\2048 Game.exe
